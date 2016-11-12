@@ -1,0 +1,5 @@
+*.idea
+cards.json
+target/
+res/images
+transformed.xml
